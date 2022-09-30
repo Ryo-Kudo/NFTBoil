@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x807cdaf7EfDFB9834CEc8b09EE6F464e3FBd8Dd0",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x807cdaf7EfDFB9834CEc8b09EE6F464e3FBd8Dd0",
+  "CONTRACT_ADDRESS": "0xa4bbE7009C4ac491A3854440dB93D204BFA5500d",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xa4bbE7009C4ac491A3854440dB93D204BFA5500d",
   "NETWORK": {
     "NAME": "Rinkeby",
     "SYMBOL": "ETH",
@@ -9,13 +9,13 @@
     "RPC_URL": "https://eth-rinkeby.alchemyapi.io/v2/WG68WJV_dEDvQY7Lnyt5ZxwK6FBCEHLJ",
     "BLOCK_EXPLORER_URL": "https://rinkeby.etherscan.io/"
   },
-  "NFT_NAME": "NFTBoilMerkle",
-  "SYMBOL": "BOIL",
-  "MAX_SUPPLY": 7000,
+  "NFT_NAME": "CharaGennyAstarCats",
+  "SYMBOL": "CGCAT",
+  "MAX_SUPPLY": 100,
   "GAS_LIMIT": 200000,
   "PAUSED": false,
   "MARKETPLACE": "OpenSea",
   "MARKETPLACE_LINK": "https://opensea.io/",
   "MAX_MINT_AMOUNT_PRE": 5,
-  "MAX_MINT_AMOUNT_PUBLIC": 10
+  "MAX_MINT_AMOUNT_PUBLIC": 5
 }

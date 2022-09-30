@@ -1,0 +1,23 @@
+{
+  "name": "CharaGenny_AstarCats#007",
+  "description": "This NFT is from the collaborative project between Chara-Genny and AstarCats.",
+  "external_url": "https://astarcats.chara-genny.io/",
+  "attributes": [
+    { "trait_type": "Background", "value": "FFFFFF" },
+    { "trait_type": "Special3" },
+    { "trait_type": "Back" },
+    { "trait_type": "Face" },
+    { "trait_type": "Special1" },
+    { "trait_type": "Mouth" },
+    { "trait_type": "Clothes" },
+    { "trait_type": "Eyes" },
+    { "trait_type": "Hair" },
+    { "trait_type": "Ears" },
+    { "trait_type": "Glasses" },
+    { "trait_type": "Mask" },
+    { "trait_type": "Forehead" },
+    { "trait_type": "Water" },
+    { "trait_type": "Hands" },
+    { "trait_type": "Special2" }
+  ]
+}
