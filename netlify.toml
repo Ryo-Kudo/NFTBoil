@@ -1,7 +1,7 @@
 [build]
 publish = "frontend/build"
 # Default build command.
-command = "pnpm run build -w frontend"
+command = "npm run build -w frontend"
 
 [functions]
 directory = "frontend/functions/"
