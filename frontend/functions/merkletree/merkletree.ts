@@ -19,7 +19,7 @@ export const handler: Handler = async (event, context) => {
   console.log('address:', addressLower, 'nodeindex:', nodeIndex)
 
   if (nodeIndex === -1) {
-    return { statusCode: 400, body: "Your Address don't eligible whitelist" }
+    return { statusCode: 400, body: "Your Address doesn't eligible whitelist" }
   }
   const hashedAddress = keccak256(addressLower)
   const hexProof = tree.getHexProof(hashedAddress)
