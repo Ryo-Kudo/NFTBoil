@@ -42,8 +42,13 @@ const config: HardhatUserConfig = {
       accounts: [getEnvVariable('ACCOUNT_PRIVATE_KEY')],
     },
     ethereum: {
-      url: process.env['MAINNET_RPC'] || '',
+      url: process.env['ETH_RPC'] || '',
       chainId: 1,
+      accounts: [getEnvVariable('ACCOUNT_PRIVATE_KEY')],
+    },
+    rinkeby: {
+      url: process.env['RINKEBY_RPC'] || '',
+      chainId: 4,
       accounts: [getEnvVariable('ACCOUNT_PRIVATE_KEY')],
     },
     goerli: {
